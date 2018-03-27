@@ -24,7 +24,7 @@ ul{
 /* Componente slide*/
 .yellow{
   background-color: #ffe521;
-  height: 300px;
+  height: 400px;
 }
 .yellow .svg-inline--fa.fa-w-10{
   color: white;
@@ -34,4 +34,32 @@ ul{
   color: white;
   margin-top: 5rem;
   margin-bottom: 1rem;
+}
+
+/* sección aside*/
+
+.list li{
+  margin-top: 2rem;
+
+}
+
+/* sección main*/
+.footer{
+  background-color: #343f4b;
+  height:180px;
+  color: white;
+}
+
+.footer p{
+  margin-top: 2rem;
+}
+
+@media (min-width: 992px){
+  .yellow{
+    height: 300px;
+  }
+  .footer{
+    height: 100px;
+  }
+
 }

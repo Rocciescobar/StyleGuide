@@ -5,13 +5,16 @@ import Aside from './Aside'
 import Main from './Main';
 import Footer from './Footer'
 
-
 const App = () => (
   <div>
     <Header />
     <Slide />
-    <Aside />
-    <Main />
+    <div className='container-fluid'>
+      <div className='row'>
+        <Aside />
+        <Main />
+      </div>
+    </div>
     <Footer />
   </div>
 )
