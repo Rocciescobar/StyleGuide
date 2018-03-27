@@ -5,9 +5,9 @@ import Colors from './Colors';
 
 const Main = () => (
   <main>
-    <Switch>      
+    <Switch>
+      <Route exact path='/' component={Typography}/> 
       <Route path='/colors' component={Colors}/>
-      <Route exact path='/' component={Typography}/>      
     </Switch>
   </main>
 )
