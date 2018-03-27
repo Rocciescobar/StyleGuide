@@ -4,9 +4,9 @@ import Typography from './Typography';
 import Colors from './Colors';
 
 const Main = () => (
-  <main>
+  <main className = "col-8 col-md-9">
     <Switch>
-      <Route exact path='/' component={Typography}/> 
+      <Route exact path='/' component={Typography}/>
       <Route path='/colors' component={Colors}/>
     </Switch>
   </main>
