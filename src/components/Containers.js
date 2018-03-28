@@ -2,7 +2,7 @@ import React from 'react';
 
 const Containers = () => (
   <div>
-    <h3 className="mg">Contenedores</h3>
+    <h4 className="mg">Contenedores</h4>
   </div>
 )
 
