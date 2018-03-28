@@ -55,6 +55,9 @@ a:hover{
   color: black;
   text-decoration: none;
 }
+.mgr{
+  margin-right: 35rem;
+}
 /*Input*/
 .list div{
   padding-left: 1rem;
