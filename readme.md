@@ -10,7 +10,7 @@ Es una plataforma digital que facilita al usuario el uso de las guías de estilo
 
 ## Desarrollado para
 
-Laboratoria[Laboratoria](http://laboratoria.la)
+- [Laboratoria](http://laboratoria.la)
 
 ### Objetivo
 
@@ -20,26 +20,23 @@ Laboratoria[Laboratoria](http://laboratoria.la)
 
 - Esta guía será útil para las personas que laboran en Laboratoria, desde creadores de contenido internos, diseñadores, desarrolladores, etc.
 
-**
+#
 
 #### Nuestro proceso de diseño
 
-## DESCUBRIMIENTO E INVESTIGACIÓN
+### DIA 1
+
+### DESCUBRIMIENTO E INVESTIGACIÓN
 
 ### Planeamiento
 
 Presentación y conversaciones en el squad para poder analizar cuáles serían las metodologías a usar para el reto asignado.
 
-### User Research
-
-##### DIA 1
-
 ###### RESEARCH CUALITATIVO
 
-Se realizó un **diagrama de Afinidad** con la finalidad de poder analizar las propuestas de preguntas de cada una y no repetirlas durante la entrevista. Concretando la guía de entrevista.
+Se realizó un **diagrama de Afinidad** con la finalidad de poder analizar las propuestas de preguntas de cada una y no repetirlas durante la entrevista. Concretando la [guía de entrevista](https://docs.google.com/document/d/1MLC8BdoegsvjA-xcX3hwHy_L7PowZzVmqTB6AMST17k/edit#)
 
 ![guía de entrevista](assets/images/guia-de-entrevistas.png)
-[guía de entrevista](https://docs.google.com/document/d/1MLC8BdoegsvjA-xcX3hwHy_L7PowZzVmqTB6AMST17k/edit#)
 
 Se realizaron 2 entrevistas:
 
@@ -51,15 +48,13 @@ Ya con los datos comparados, el equipo procede a contactarse con otros usuarios 
 ###### BENCHMARK
 
 Se realiza la diferenciación con las diferentes páginas de las empresas, que ofrecen guías de estilo.
-- Yelp. [Yelp](https://www.yelp.com/styleguide)
-- Buffer. [Buffer](https://buffer.com/style-guide)
-- Bootstrap. [bootstrap](https://getbootstrap.com/)
+- [Yelp](https://www.yelp.com/styleguide)
+- [Buffer](https://buffer.com/style-guide)
+- [bootstrap](https://getbootstrap.com/)
 
-## SINTESIS Y DEFINICIÓN
+### DIA 2
 
-### SINTESIS
-
-##### DIA 2
+### SINTESIS Y DEFINICIÓN
 
 #### 1.- Affinity Mapping
 
@@ -110,7 +105,7 @@ Nuestro producto mínimo viable debe contener lo siguiente:
 
 Este mínimo producto viable se realizó debido a que representa lo esencial y es de bajo costo realizarlo.
 
-## IDEACIÓN
+### IDEACIÓN
 
 #### Prototype
 
@@ -118,26 +113,24 @@ Este mínimo producto viable se realizó debido a que representa lo esencial y e
 
 Con nuestro MVP definido, se procede a realizar el prototipo.
 
-![paper-prototype](assets/docs/paper-prototype.jpg)
+![paper-prototype](assets/images/paper-prototype.jpg)
 
 ##### 2.- Prototype de alta fidelidad
 
 Se utilizaron las herramientas de marvel y figma.
 
-![prototype](assets/docs/prototype.png)
+![prototype](assets/images/prototype.png)
 [prototype](https://marvelapp.com/86i06bb/screen/40355827)
 
 #### Testing
 
 Se realizaron diferentes testing con el objetivo de mejorar el proceso.
 
-![testing](assets/docs/diego.jpg)
-![testing](assets/docs/ale.jpg)
-![testing](assets/docs/noemi.jpg)
-![testing](assets/docs/gonzalo.jpg)
-![testing](assets/docs/jhonalbert.png)
-![testing](assets/docs/lulu.png)
+#### Demo
 
+Con el proceso respectivo se desarrolló el demo del producto.
+
+[demo](https://github.com/Rocciescobar/react-fancy-component)
 
 ### **Equipo de Trabajo**
 
