@@ -131,6 +131,17 @@ Con el proceso respectivo se desarrolló el demo del producto.
 
 [demo](https://github.com/Rocciescobar/react-fancy-component)
 
+### **Herramientas tecnológicas utilizadas**
+
+- [Trello](https://trello.com/b/ufsZQnwR/hackathonstyleguide)
+- Marvel
+- Figma
+- HTML5
+- Dependencia Styled-components
+- Babel
+- React
+- React-dom
+
 ### **Equipo de Trabajo**
 
 >##### L. Vanessa Colqui Santos
