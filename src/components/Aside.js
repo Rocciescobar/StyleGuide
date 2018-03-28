@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const Aside = () => (
-  <div class="col-6 col-md-3 pd">
+  <div class="col-5 col-md-3 pd">
     <div class="list">
       <div class="">
         <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email"/>
