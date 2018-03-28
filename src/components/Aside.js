@@ -5,7 +5,7 @@ const Aside = () => (
   <div className="col-5 col-md-3 pd">
     <div className="list">
       <div className="">
-        <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email"/>
+        <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="buscar"/>
       </div>
       <h5 className=""><Link to='/'>Inicio</Link></h5>
       <h5 className=""><Link to='/typografia'>Tipografía</Link></h5>

@@ -60,7 +60,7 @@ a:hover{
 }
 /*Input*/
 .list div{
-  padding-left: 1rem;
+  padding-left: 10px;
   border-bottom:  1px solid #8493a8;
   padding-bottom: 2rem;
   padding-top: 1rem;
