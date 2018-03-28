@@ -2,7 +2,7 @@ import React from 'react';
 
 const Colors = () => (
   <div>
-    <p>Colors</p>
+    <h3 className="mg">Colors</h3>
   </div>
 )
 
