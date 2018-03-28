@@ -17,7 +17,7 @@ const Links = () => (
       <div class="flex">
         <div class="mr-5">
           <h3 className="">Más links</h3>
-          <p className="">Se usan más enlaces para vincular contenido adicional en otra página.Por lo general, aparecen debajo de una lista de cosas como "negocios relacionados"</p>
+          <p className="">Se usan más enlaces para vincular contenido adicional en otra página.Por lo general, aparecen debajo de una lista de cosas como "negocios relacionados"o 'eventos'</p>
         </div>
         <div class="">
           <p className="">Ejemplo</p>
