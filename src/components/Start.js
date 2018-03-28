@@ -10,7 +10,7 @@ const Start = () => (
       <div className="card-body">
         <pre className="m-0">
           <code className="language-css" data-lang="css">
-            <span className="k">npm install laboratoria-style-guide</span>
+            npm install laboratoria-style-guide
           </code>
         </pre>
       </div>
