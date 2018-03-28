@@ -1,88 +1,69 @@
 
 import React from 'react';
 const Typography = () => (
-  <div>
-    <h3 className="mg">Tipografía</h3>
-    <h1 className="mg">Header-Level 1</h1>
-    <div class="card">
-      <div class="card-body">
-        <pre>
-          <code class="language-css" data-lang="css"><span class="k">@-moz-document </span>
-          <span class="nt">&#123; <p>font-size:</p>&#125;</span>
-        </code>
-      </pre>
+  <div className="my-3">
+    <h3 className="mt-4 font-weight-bold">Tipografía</h3>
+    <p>Documentación y ejemplos de textos y tipografías usadas en la web.</p>
+    <div>
+      <h1 className="ff-bitter">Header-Level 1</h1>
+      <div class="card">
+        <div class="card-body">
+          <pre className="m-0">
+            <code class="language-css" data-lang="css">
+              &lt;Typography h1 bitter&gt; Título 1 &lt;/Typography&gt;
+            </code>
+          </pre>
+        </div>
+      </div>
     </div>
-  </div>
-  <h2 className="color-yellow mg">Header-Level 2-Opción 1</h2>
-    <div class="card">
-      <div class="card-body">
-        <pre>
-          <code class="language-css" data-lang="css"><span class="k">@-moz-document </span>
-          <span class="nt">&#123; <p>font-size:</p>&#125;</span>
-        </code>
-      </pre>
+    <div className="my-3">
+      <h2 className="color-fucsia font-weight-bold">Header-Level 2</h2>
+      <div class="card">
+        <div class="card-body">
+          <pre className="m-0">
+            <code class="language-css" data-lang="css">
+              &lt;Typography h2 bold colorSA&gt; Título 2 &lt;/Typography&gt;
+            </code>
+          </pre>
+        </div>
+      </div>
     </div>
-  </div>
-  <h2 className="mg">Header-Level 2-Opción 2</h2>
-    <div class="card">
-      <div class="card-body">
-        <pre>
-          <code class="language-css" data-lang="css"><span class="k">@-moz-document </span>
-          <span class="nt">&#123; <p>font-size:</p>&#125;</span>
-        </code>
-      </pre>
+    <div className="my-3">
+      <h3 className="color-green font-weight-bold">Header-Level 3</h3>
+      <div class="card">
+        <div class="card-body">
+          <pre className="m-0">
+            <code class="language-css" data-lang="css">
+              &lt;Typography h3 bold colorSB&gt; Título 3 &lt;/Typography&gt;
+            </code>
+          </pre>
+        </div>
+      </div>
     </div>
-  </div>
-  <h3 className="color-yellow mg">Header-Level 3-Opción 1</h3>
-    <div class="card">
-      <div class="card-body">
-        <pre>
-          <code class="language-css" data-lang="css"><span class="k">@-moz-document </span>
-          <span class="nt">&#123; <p>font-size:</p>&#125;</span>
-        </code>
-      </pre>
+    <div className="my-3">
+      <h4 className="font-weight-bold">Header-Level 4</h4>
+      <div class="card">
+        <div class="card-body">
+          <pre className="m-0">
+            <code class="language-css" data-lang="css">
+              &lt;Typography h4 bold&gt; Título 4 &lt;/Typography&gt;
+            </code>
+          </pre>
+        </div>
+      </div>
     </div>
-  </div>
-  <h3 className="mg">Header-Level 3-Opción 1</h3>
-    <div class="card">
-      <div class="card-body">
-        <pre>
-          <code class="language-css" data-lang="css"><span class="k">@-moz-document </span>
-          <span class="nt">&#123; <p>font-size:</p>&#125;</span>
-        </code>
-      </pre>
+    <div className="my-3">
+      <p className="font-weight-bold">This is a paragraph</p>
+      <div class="card">
+        <div class="card-body">
+          <pre className="m-0">
+            <code class="language-css" data-lang="css">
+              &lt;Typography paragraph&gt; Párrafo &lt;/Typography&gt;
+            </code>
+          </pre>
+        </div>
+      </div>
     </div>
-  </div>
-  <h4 className="color-yellow mg">Header-Level 4-Opción 1</h4>
-    <div class="card">
-      <div class="card-body">
-        <pre>
-          <code class="language-css" data-lang="css"><span class="k">@-moz-document </span>
-          <span class="nt">&#123; <p>font-size:</p>&#125;</span>
-        </code>
-      </pre>
-    </div>
-  </div>
-  <h4 className="mg">Header-Level 4-Opción 2</h4>
-    <div class="card">
-      <div class="card-body">
-        <pre>
-          <code class="language-css" data-lang="css"><span class="k">@-moz-document </span>
-          <span class="nt">&#123; <p>font-size:</p>&#125;</span>
-        </code>
-      </pre>
-    </div>
-  </div>
-  <p className="mg">This is paragraph</p>
-    <div class="card">
-      <div class="card-body">
-        <pre>
-          <code class="language-css" data-lang="css"><span class="k">@-moz-document </span>
-          <span class="nt">&#123; <p>font-size:</p>&#125;</span>
-        </code>
-      </pre>
-    </div>
-  </div>
   </div>
 )
 
