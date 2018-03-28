@@ -4,6 +4,7 @@ body {
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
 }
+
 .line{
   outline: 1px solid red;
 }
@@ -12,17 +13,18 @@ body {
 .navbar-brand{
   font-size: 30px;
 }
+
 /* iconos < y >*/
 .svg-inline--fa.fa-w-10{
   color: #fee522;
 }
-
 
 /* Componente slide*/
 .yellow{
   background-color: #ffe521;
   height: 400px;
 }
+
 .yellow .svg-inline--fa.fa-w-10{
   color: white;
 }
@@ -36,10 +38,12 @@ body {
 .color-yellow{
   color:#ffe521;
 }
+
 /* sección aside*/
 .list{
   border-right: 1px solid #8493a8;
 }
+
 .list h5{
   margin-bottom: 0rem;
   border-bottom:  1px solid #8493a8;
@@ -48,13 +52,16 @@ body {
   padding-right: 8px;
   margin-top: 1rem;
 }
+
 a{
   color: black;
 }
+
 a:hover{
   color: black;
   text-decoration: none;
 }
+
 /*Input*/
 .list div{
   padding-left: 1rem;
@@ -63,19 +70,23 @@ a:hover{
   padding-top: 1rem;
   padding-right: 1rem;
 }
+
 .pd{
   padding-left: 0px;
 }
+
 /* sección main*/
 .mg{
   margin-top: 2rem;
 }
+
 /*sección colors*/
 .flex{
   display: flex;
   flex-direction: column;
   word-wrap: break-word;
 }
+
 .rectangle{
   height: 60px;
   width: 150px;
@@ -87,38 +98,48 @@ a:hover{
   background-color: #ffe521;
   color: black;
 }
+
 .back-green1{
   background-color: #56f89a;
 }
+
 .color-green{
   color: #56f89a;
 }
+
 .back-fucsia{
   background-color: #ff009e;
   color: white;
 }
+
 .color-fucsia{
   color:#ff009e;
 }
+
 .back-white{
   background-color: white;
   border: 1px solid gray;
 }
+
 .back-black{
   background-color: #343f4b;
   color: white;
 }
+
 .border{
   border:  1px solid #8493a8;
   width: 170px;
 }
+
 /* sección botones*/
 button{
   border: none;
 }
+
 .mgb{
   margin-top: 15rem;
 }
+
 /*sección  footer*/
 .footer{
   background-color: #343f4b;
@@ -129,33 +150,42 @@ button{
 .footer p{
   margin-top: 2rem;
 }
+
 .footer h6{
   margin-top: 2rem;
 }
+
 .img-style{
 width: 10rem;
 height: 100px;
 }
+
 @media (min-width: 992px){
   .yellow{
     height: 300px;
   }
+
   .footer{
     height: 100px;
   }
+
   .footer p{
     font-size: 30px;
   }
+
   .footer h6{
     font-size: 20px;
     margin-top: 3rem;
   }
+
   .flex{
     flex-direction: row;
   }
+
   .rectangle{
     width: 250px;
   }
+  
   .border{
     width: 400px;
   }
