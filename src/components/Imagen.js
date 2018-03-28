@@ -2,7 +2,7 @@ import React from 'react';
 
 const Imagen = () => (
   <div>
-    <h3 className="mg">Imagenes</h3>
+    <h3 className="mg">Imágenes</h3>
   </div>
 )
 

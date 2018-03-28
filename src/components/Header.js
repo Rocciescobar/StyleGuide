@@ -9,7 +9,6 @@ const Header = () => (
       </button>
       <div class="collapse navbar-collapse" id="navbarText">
         <ul class="navbar-nav mr-auto">
-
         </ul>
         <span class="navbar-text">
           <ul class="navbar-nav mr-auto">
@@ -23,7 +22,7 @@ const Header = () => (
               <a class="nav-link" href="#">Comunicación interna</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="#">Web</a>
+              <a class="nav-link color-yellow" href="#">Web</a>
             </li>
             <li class="nav-item active">
               <a class="nav-link" href="#">Ayuda</a>

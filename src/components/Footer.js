@@ -8,7 +8,7 @@ const Footer = () => (
           <p><i class="fas fa-chevron-left"></i>Laboratoria<i class="fas fa-chevron-right"></i></p>
         </div>
         <div class="col-7">
-          <span>¿Tienes algún problema? Contáctanos a branding@laboratoria.la</span>
+          <h6>¿Tienes algún problema? Contáctanos a branding@laboratoria.la</h6>
         </div>
       </div>
     </div>

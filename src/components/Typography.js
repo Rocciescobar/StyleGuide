@@ -2,7 +2,7 @@
 import React from 'react';
 const Typography = () => (
   <div>
-    <h3 className="mg">Inicio</h3>
+    <h3 className="mg">Tipografía</h3>
   </div>
 )
 
