@@ -1,7 +1,7 @@
 
 import React from 'react';
 const Typography = () => (
-  <div className="my-3">
+  <div className="my-5">
     <h3 className="mt-4 font-weight-bold">Tipografía</h3>
     <p>Documentación y ejemplos de textos y tipografías usadas en la web.</p>
     <div>
@@ -16,7 +16,7 @@ const Typography = () => (
         </div>
       </div>
     </div>
-    <div className="my-3">
+    <div className="my-5">
       <h2 className="color-fucsia font-weight-bold">Header-Level 2</h2>
       <div class="card">
         <div class="card-body">
@@ -28,7 +28,7 @@ const Typography = () => (
         </div>
       </div>
     </div>
-    <div className="my-3">
+    <div className="my-5">
       <h3 className="color-green font-weight-bold">Header-Level 3</h3>
       <div class="card">
         <div class="card-body">
@@ -40,7 +40,7 @@ const Typography = () => (
         </div>
       </div>
     </div>
-    <div className="my-3">
+    <div className="my-5">
       <h4 className="font-weight-bold">Header-Level 4</h4>
       <div class="card">
         <div class="card-body">
@@ -52,7 +52,7 @@ const Typography = () => (
         </div>
       </div>
     </div>
-    <div className="my-3">
+    <div className="my-5">
       <p className="font-weight-bold">This is a paragraph</p>
       <div class="card">
         <div class="card-body">
