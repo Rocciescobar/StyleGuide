@@ -2,12 +2,12 @@ import React from 'react';
 
 const Footer = () => (
   <footer className="footer">
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-5 ">
-          <p><i class="fas fa-chevron-left"></i>Laboratoria<i class="fas fa-chevron-right"></i></p>
+    <div className="container-fluid">
+      <div className="row">
+        <div className="col-5 ">
+          <p><i className="fas fa-chevron-left"></i>Laboratoria<i className="fas fa-chevron-right"></i></p>
         </div>
-        <div class="col-7">
+        <div className="col-7">
           <h6>¿Tienes algún problema? Contáctanos a branding@laboratoria.la</h6>
         </div>
       </div>

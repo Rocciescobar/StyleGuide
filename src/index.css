@@ -112,6 +112,13 @@ a:hover{
   border:  1px solid #8493a8;
   width: 170px;
 }
+/* sección botones*/
+button{
+  border: none;
+}
+.mgb{
+  margin-top: 15rem;
+}
 /*sección  footer*/
 .footer{
   background-color: #343f4b;
@@ -124,6 +131,10 @@ a:hover{
 }
 .footer h6{
   margin-top: 2rem;
+}
+.img-style{
+width: 10rem;
+height: 100px;
 }
 @media (min-width: 992px){
   .yellow{
