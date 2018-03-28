@@ -10,7 +10,7 @@ import Formul from './Formul';
 import Containers from './Containers';
 
 const Main = () => (
-  <main className = "col-6 col-md-9">
+  <main className = "col-7 col-md-9">
     <Switch>
       <Route exact path='/' component={Start}/>
       <Route exact path='/typografia' component={Typography}/>
