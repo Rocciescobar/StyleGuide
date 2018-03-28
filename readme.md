@@ -6,9 +6,8 @@ Es una plataforma digital que facilita al usuario el uso de las guías de estilo
 
 ![foto-ppal](assets/images/foto-ppal.png)
 
-**
 
-## Desarrollado para
+### Desarrollado para
 
 - [Laboratoria](http://laboratoria.la)
 
@@ -22,17 +21,17 @@ Es una plataforma digital que facilita al usuario el uso de las guías de estilo
 
 #
 
-#### Nuestro proceso de diseño
+## DISEÑO CENTRADO EN EL USUARIO
 
 ### DIA 1
 
 ### DESCUBRIMIENTO E INVESTIGACIÓN
 
-### Planeamiento
+#### 1.- Planeamiento
 
 Presentación y conversaciones en el squad para poder analizar cuáles serían las metodologías a usar para el reto asignado.
 
-###### RESEARCH CUALITATIVO
+#### 2.- Research cualitativo
 
 Se realizó un **diagrama de Afinidad** con la finalidad de poder analizar las propuestas de preguntas de cada una y no repetirlas durante la entrevista. Concretando la [guía de entrevista](https://docs.google.com/document/d/1MLC8BdoegsvjA-xcX3hwHy_L7PowZzVmqTB6AMST17k/edit#)
 
@@ -45,7 +44,7 @@ Se realizaron 2 entrevistas:
 
 Ya con los datos comparados, el equipo procede a contactarse con otros usuarios más cercanos, con la finalidad de realizar preguntas más directas para una segunda entrevista.
 
-###### BENCHMARK
+#### 3.- Benchmark
 
 Se realiza la diferenciación con las diferentes páginas de las empresas, que ofrecen guías de estilo.
 - [Yelp](https://www.yelp.com/styleguide)
@@ -105,17 +104,17 @@ Nuestro producto mínimo viable debe contener lo siguiente:
 
 Este mínimo producto viable se realizó debido a que representa lo esencial y es de bajo costo realizarlo.
 
-### IDEACIÓN
+### IDEACIÓN 
 
-#### Prototype
+### PROTOTIPO
 
-##### 1.- Paper prototype
+#### 1.- Paper prototype
 
 Con nuestro MVP definido, se procede a realizar el prototipo.
 
 ![paper-prototype](assets/images/paper-prototype.jpg)
 
-##### 2.- Prototype de alta fidelidad
+#### 2.- Prototype de alta fidelidad
 
 Se utilizaron las herramientas de marvel y figma.
 
